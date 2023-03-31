@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.parent {
+  background-color: darkslategray;
+  padding: 50px;
+  margin: 15% auto;
+
+  /* Pages are always responsive, they lose responsiveness when we give values to them for eg. the width below */
+  /* width: 900px; */
+
+  /* We can give percentage instead of px to make it responsive as it is. */
+  width: 80%;
+
+  /* overflow: hidden; */
+}
+
+.child {
+  background-color: aqua;
+  /* width: 750px; */
+
+  /* The child will get width of its parent div not width of the full page  */
+  margin: auto;
+  width: 80%;
+  height: 250px;
+}
