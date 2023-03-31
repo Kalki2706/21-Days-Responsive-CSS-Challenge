@@ -1,10 +1,10 @@
 # Percent VS Fixed Widths
 
-## _"Pages are always responsive, they lose responsiveness when we give values to them."_ - **_Kevin Powell_**
+## _"WebPages are always responsive, they lose responsiveness when we give values to them."_ - **_Kevin Powell_**
 
 <!-- When we give width in pixels it looses its responsiveness.-->
 
-### We can give percentage instead of px to make it responsive as it is.
+### We can give percentage instead of pixels to make it responsive as it is.
 
 <br/>
 
