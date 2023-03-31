@@ -1,5 +1,7 @@
 # Percent VS Fixed Widths
 
+<br/>
+
 ## _"Pages are always responsive, they lose responsiveness when we give values to them."_ - _**Kevin Powell**_
 
 <br/>
