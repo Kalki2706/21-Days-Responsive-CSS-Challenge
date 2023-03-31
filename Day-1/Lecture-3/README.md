@@ -10,12 +10,12 @@
 
 <br>
 
-![Using Padding](./img/padding.png)
-
-### _Used padding to stop content from overflowing._
-
-<br>
-
 ![Using Height](./img/height.png)
 
 ### _Used height but the content is overflowing._
+
+<br>
+
+![Using Padding](./img/padding.png)
+
+### _Used padding to stop content from overflowing._
