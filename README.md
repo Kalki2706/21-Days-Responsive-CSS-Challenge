@@ -6,6 +6,4 @@
 
 ![Conquering Responsive Layout](https://i.ytimg.com/vi/vklBHA_YXD8/maxresdefault.jpg)
 
-<br>
-
 ## [Course Link](https://courses.kevinpowell.co/conquering-responsive-layouts)
