@@ -14,6 +14,4 @@
 <br>
 `width: 80%;` _Width of child div_
 
-<br>
-
 ### **The child will get width of its parent div not width of the full page.**
