@@ -4,7 +4,7 @@
 
 <br/>
 
-![responsive](./img/responsive-solution.png)
+![responsive](../img/responsive-solution.png)
 
 <br/>
 
@@ -12,5 +12,5 @@
 
 <br/>
 
-![responsive in mobile](./img/responsive-in-mobile.png)
+![responsive in mobile](../img/responsive-in-mobile.png)
 g
