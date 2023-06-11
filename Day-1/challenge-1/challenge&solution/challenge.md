@@ -1,6 +1,6 @@
 # Challenge 1
 
-### **1) Limit the total width of the .intro-conent to about half of it's parent**
+### **1) Limit the total width of the .intro-content to about half of it's parent**
 
 <br/>
 
