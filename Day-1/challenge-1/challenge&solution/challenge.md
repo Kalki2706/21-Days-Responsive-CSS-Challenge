@@ -4,7 +4,7 @@
 
 <br/>
 
-![intro content width](./img/intro-container-width.png)
+![intro content width](../img/intro-container-width.png)
 
 <br/>
 
@@ -12,4 +12,4 @@
 
 <br/>
 
-![Content Overflowing](./img/content-overflow.png)
+![Content Overflowing](../img/content-overflow.png)
